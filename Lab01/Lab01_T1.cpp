@@ -10,7 +10,7 @@
   int main()
   {
  	cout << "==================================\n";
-     cout << "STUDENT PROFILE\n";
+     cout << "\tSTUDENT PROFILE\n";
      cout << "==================================\n";
      cout << "Name\t\t: Ali Qureshi\n";
      cout << "Roll No\t\t: 2026-SET-01\n";
@@ -20,3 +20,5 @@
      cout << "Folder\t\t: D: \\Students\\Lab01\n";
      cout << "==================================\n";
      return 0;
+ 	
+}
